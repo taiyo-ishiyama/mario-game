@@ -1,0 +1,3 @@
+/Users/taiyo0414/Downloads/private project/mario-game/build/CMakeFiles/mario-game.dir
+/Users/taiyo0414/Downloads/private project/mario-game/build/CMakeFiles/edit_cache.dir
+/Users/taiyo0414/Downloads/private project/mario-game/build/CMakeFiles/rebuild_cache.dir
